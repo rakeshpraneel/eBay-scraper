@@ -1,0 +1,6 @@
+Modules required:
+
+requests
+bs4
+pandas
+datetime
